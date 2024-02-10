@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Investing-Strategy
+# Twitter(X)-Sentiment-Investing-Strategy
 
 ## Overview
 This project explores a sentiment-based investing strategy using Twitter engagement data. It involves analyzing Twitter data to gauge sentiment, constructing portfolios based on engagement ratios, and assessing their performance against market benchmarks.
